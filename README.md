@@ -20,7 +20,7 @@ The reminder timer is a **scroll-triggered cooldown**, not a repeating alarm whi
 
 1. Download and unzip the easy-install ZIP.
 2. Open `chrome://extensions` and turn on **Developer mode**.
-3. Click **Load unpacked** and choose the folder containing `manifest.json`.
+3. Click **Load unpacked** and choose extension folder containing `manifest.json`.
 4. Refresh YouTube. Open YouTube Focus from Chrome’s Extensions menu.
 5. Set your task and timer, then click **Save task & timer**. Switches save immediately.
 
