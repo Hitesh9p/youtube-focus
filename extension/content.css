@@ -1,0 +1,23 @@
+/* Attribute-scoped rules restore the original page immediately when focus is off. */
+html[data-ytfocus="on"][data-ytfocus-route="home"] ytd-browse[page-subtype="home"],
+html[data-ytfocus="on"][data-ytfocus-route="shorts"] ytd-shorts,
+html[data-ytfocus="on"] ytd-watch-next-secondary-results-renderer,
+html[data-ytfocus="on"] ytd-watch-flexy #related,
+html[data-ytfocus="on"] ytd-reel-shelf-renderer,
+html[data-ytfocus="on"] ytd-rich-shelf-renderer[is-shorts],
+html[data-ytfocus="on"] ytd-reel-item-renderer,
+html[data-ytfocus="on"] ytd-rich-item-renderer:has(ytm-shorts-lockup-view-model),
+html[data-ytfocus="on"] ytm-shorts-lockup-view-model,
+html[data-ytfocus="on"] ytd-guide-entry-renderer:has(a[href^="/shorts"]),
+html[data-ytfocus="on"] ytd-mini-guide-entry-renderer:has(a[href^="/shorts"]),
+html[data-ytfocus="on"] .ytp-ce-element,
+html[data-ytfocus="on"] .ytp-endscreen-content {
+  display: none !important;
+}
+
+/* Hide comments, not the player, description, or page scrolling. */
+html[data-ytfocus-comments="hide"] ytd-comments#comments,
+html[data-ytfocus-comments="hide"] ytd-item-section-renderer#comments,
+html[data-ytfocus-comments="hide"] ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-comments-section"] {
+  display: none !important;
+}

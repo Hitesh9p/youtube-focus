@@ -1,0 +1,37 @@
+LINKEDIN DRAFT
+
+Opened YouTube for a tutorial. Ended up scrolling instead?
+
+I’m building YouTube Focus, a small Chrome extension to make intentional watching easier.
+
+It hides recommendations and Shorts, lets you hide comments, and reminds you of your task when you start scrolling. You choose the reminder interval.
+
+Search and the video you came for stay available. No account, no AI API, and your settings stay on your device.
+
+Here’s a quick demo 👇
+
+It’s an early version, and I’d love feedback: what distracts you most on YouTube?
+
+#BuildInPublic #ChromeExtension #OpenSource #Productivity
+
+PUBLISHING NOTE (not part of the post)
+Add your GitHub link after the repository is public. The extension is not published to the Chrome Web Store.
+
+SHORT REEL HOOKS
+- One tutorial. Twenty distractions.
+- You came to learn. Why are you scrolling?
+- What if YouTube had a focus mode?
+- Keep the video. Hide the distractions.
+- The comments can wait.
+- Your next video can wait too.
+
+20–30 SECOND REEL
+0–3s: Hook.
+3–7s: Show the distracting page.
+7–12s: Toggle focus on.
+12–16s: Hide comments.
+16–23s: Show your task and scroll reminder.
+23–28s: “Would you use this?”
+
+GITHUB DESCRIPTION
+A lightweight Chrome extension that hides YouTube recommendations, Shorts and optional comments, with customizable scroll reminders to help you stay on task.

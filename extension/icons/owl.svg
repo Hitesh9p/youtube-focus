@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>Focus owl — original YouTube Focus mascot</title>
+  <rect x="4" y="4" width="120" height="120" rx="32" fill="#e5f3e9"/>
+  <path d="M24 52 21 23 48 35Q64 29 80 35L107 23 104 52Q114 110 64 113 14 110 24 52Z" fill="#245347"/>
+  <path d="M35 83Q64 64 93 83L86 101Q64 116 42 101Z" fill="#76ac95"/>
+  <circle cx="45" cy="59" r="22" fill="#fff8df"/>
+  <circle cx="83" cy="59" r="22" fill="#fff8df"/>
+  <circle cx="48" cy="59" r="9" fill="#16372f"/>
+  <circle cx="80" cy="59" r="9" fill="#16372f"/>
+  <circle cx="51" cy="56" r="3" fill="white"/>
+  <circle cx="83" cy="56" r="3" fill="white"/>
+  <path d="m56 76 8-7 8 7-8 10Z" fill="#e7ab43"/>
+  <path d="m54 94 7 7 14-15" fill="none" stroke="#fff8df" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
